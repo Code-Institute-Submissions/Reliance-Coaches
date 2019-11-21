@@ -76,3 +76,9 @@
 }
 
 
+.image-container {
+    height: 500px;
+    background: url('../images/whitebus1.jpg') no-repeat bottom right fixed; 
+    background-size: cover;
+}
+
