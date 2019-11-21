@@ -82,3 +82,11 @@
     background-size: cover;
 }
 
+.image-container1 {
+    height: 500px;
+    background: url('../images/doubledeckerbus.jpg') no-repeat bottom right fixed; 
+    background-size: cover;
+}
+
+
+
