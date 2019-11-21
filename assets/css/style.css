@@ -1,0 +1,28 @@
+
+/*--------Navbar ---------*/
+
+.navbar-custom {
+    background-color: #000;
+}
+
+.navbar-custom .navbar-brand {
+    color:#fff;
+}
+
+.navbar-custom .navbar-text {
+    color:#fff;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color:#fff;
+}
+
+/*----- (Not Sure about the custom border yet)
+.toggler-custom.navbar-toggler {
+  border-color:#fff;
+} 
+-------*/
+
+
+
+
