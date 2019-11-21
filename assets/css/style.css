@@ -1,6 +1,6 @@
 
 
-/*-------Buttons-----------*/
+/*Buttons*/
 
 .btn-circle { 
             background-color: rgba(26, 24, 24, 0.247);
@@ -15,7 +15,7 @@
 }
 
 
-/*--------Navbar ---------*/
+/*Navbar*/
 
 .navbar-custom {
     background-color: #000;
@@ -33,11 +33,10 @@
     color:#fff;
 }
 
-/*----- (Not Sure about the custom border yet)
+/*(Not Sure about the custom border yet)
 .toggler-custom.navbar-toggler {
   border-color:#fff;
-} 
--------*/
+} */
 
 
 /* Landing Container Style */
