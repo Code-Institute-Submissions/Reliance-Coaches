@@ -77,13 +77,13 @@
 
 
 .image-container {
-    height: 500px;
+    height: 300px;
     background: url('../images/whitebus1.jpg') no-repeat bottom right fixed; 
     background-size: cover;
 }
 
 .image-container1 {
-    height: 500px;
+    height: 300px;
     background: url('../images/doubledeckerbus.jpg') no-repeat bottom right fixed; 
     background-size: cover;
 }
