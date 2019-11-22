@@ -93,8 +93,30 @@
     text-align: center;
 }
 
+.h2-custom {
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
 .p-custom {
     text-align: justify
+}
+
+/*-----------https://www.steckinsights.com/shorten-length-border-bottom-pure-css/-------*/
+
+/*---------This underlines each section to the correct lenghth required------*/
+
+.bd-style::after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 20px;
+    border-bottom: 1px solid black;
 }
 
 /*--Contact us section with mobile Number and Mail me Button */
