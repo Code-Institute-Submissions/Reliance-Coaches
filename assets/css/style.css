@@ -88,5 +88,12 @@
     background-size: cover;
 }
 
+.main-content {
+    text-align: center;
+}
+
+.p-custom {
+    text-align: justify
+}
 
 
