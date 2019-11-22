@@ -54,8 +54,6 @@
      -o-background-size: cover;   
 }
 
-/* Jumbotron */
-
 .jumbotron {
     background-color: transparent;
 }
@@ -88,12 +86,25 @@
     background-size: cover;
 }
 
+
+/*--3 Responsive bootstrap Divs displaying 3 main information points--*/
+
 .main-content {
     text-align: center;
 }
 
 .p-custom {
     text-align: justify
+}
+
+/*--Contact us section with mobile Number and Mail me Button */
+
+
+/*--Footer Section--*/
+
+.footer-custom {
+    background-color: black;
+    color: #fff;
 }
 
 
