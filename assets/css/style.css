@@ -132,6 +132,11 @@
 .footer-custom {
     background-color: black;
     color: #fff;
+    text-align: center;
+}
+
+.fa-custom {
+    
 }
 
 
