@@ -98,7 +98,9 @@
     padding-bottom: 30px;
 }
 
-.h2-custom {
+
+@media only screen and (max-width: 767px) {
+  .h2-custom {
     margin-top: 20px;
     margin-bottom: 25px;
     font-family: Montserrat, sans-serif;
@@ -106,6 +108,7 @@
     letter-spacing: 10px;
     text-transform: uppercase;
 }
+
 
 .p-custom {
     text-align: justify
