@@ -69,7 +69,7 @@
 }
 
 
-/* Start of the Main Body */
+/* Start of the Main Body index.html */
 
 .company-section {
     text-align: center;
@@ -91,7 +91,7 @@
 }
 
 
-/*--3 Responsive bootstrap Divs displaying 3 main information points--*/
+/*--3 Responsive bootstrap Divs displaying 3 main information and style to linked pages--*/
 
 .main-content {
     text-align: center;
@@ -110,6 +110,8 @@
 .p-custom {
     text-align: justify
 }
+
+
 
 /*-----------https://www.steckinsights.com/shorten-length-border-bottom-pure-css/-------*/
 
