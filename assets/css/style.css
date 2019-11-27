@@ -111,6 +111,15 @@
     text-align: justify
 }
 
+.page-title {
+    padding-top: 70px;
+    text-align: center;
+}
+
+.image-pages {
+    object-fit: cover;
+    width: 100%;
+}
 
 
 /*-----------https://www.steckinsights.com/shorten-length-border-bottom-pure-css/-------*/
