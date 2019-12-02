@@ -28,6 +28,10 @@
     color: #fff;
 }
 
+.btn-form {
+    background-color: #000;
+}
+
 
 /*Navbar*/
 
@@ -151,11 +155,12 @@
 
 /*--Footer Section--*/
 
-.footer-custom {
+.footer-custom  {
     background-color: black;
     color: #fff;
     text-align: center;
 }
+
 
 .social-custom {
     color: #fff;
@@ -213,6 +218,17 @@
 
 .section-title {
     text-align: center;
+}
+
+
+/*-- Form Section--*/
+
+.form-custom{
+    padding-top:200px;
+}
+
+.h5-custom{
+    padding-top: 200px;
 }
 
 

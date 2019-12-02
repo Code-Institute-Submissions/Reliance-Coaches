@@ -37,60 +37,50 @@
 				</ul>
 			</div>
 		</nav>
-
-		<!-- Section Title -->
-		<div class="container-fluid page-title">
-			<div class="row">
-				<div class="col-12">
-					<h1 class="h1-custom">Our fleet</h1>
-				</div>
-			</div>
-		</div>
 	</header>
 
-	<main>
-		<section class="container-fluid">
-			<div class="row">
-				<div class="col-sm-12 order-2 col-md-6 order-md-1 company-section1">
-					<h2 class="section-title">Who we are</h2>
-					<p class="p-custom">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, tempora magni nam ipsa dolor
-						cum ratione accusantium, nulla eveniet dolorum quasi aut excepturi quod? Nulla at sed nesciunt
-						voluptate pariatur!</p>
-				</div>
-				<div class="col-sm-12 order-1 col-md-6 order-md-2 images-section">
-					<img class="image-pages" src="assets/images/whitebus.jpg" alt="">
-                </div>
-				</div>
-				<div class="row">
-					<div class="col-sm-12 order-2 col-md-6 company-section1">
-						<h2 class="section-title">Location</h2>
-						<p class="p-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea optio nisi possimus quos facilis
-							eos est esse, quaerat similique. Rem quam nihil accusamus deserunt nam amet atque
-							exercitationem officiis et?
-						</p>
-					</div>
-					<div class="col-sm-12 order-1 col-md-6 images-section">
-						<img class="image-pages"  src="assets/images/whitebus.jpg" alt="">
-                    </div>
-					</div>
-					<div class="row">
-						<div class="col-sm-12 order-2 col-md-6 order-md-1 company-section1">
-							<h2 class="section-title">Location</h2>
-							<p class="p-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo commodi impedit voluptates
-								ut nulla mollitia omnis, saepe amet nisi excepturi nesciunt quis! Eaque distinctio
-								quaerat consequatur, ex sapiente repellendus veniam!
-							</p>
-						</div>
-						<div class="col-sm-12 order-1 col-md-6 order-md-2 images-section">
-							<img class="image-pages" src="assets/images/whitebus.jpg" alt="">
-                    </div>
-						</div>
-		</section>
+
+    <!-- Default form contact -->
+    <!--https://mdbootstrap.com/docs/jquery/forms/basic/ This Form was taking from here and styled and changed code to suit my page-->
+<form class="text-center border border-light p-5" action="#!">
+
+    <p class="h4 mb-4 h5-custom">Contact us</p>
+
+    <!-- Name -->
+    <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Name">
+
+    <!-- Email -->
+    <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail">
+
+    <!-- Subject -->
+    <label>Subject</label>
+    <select class="browser-default custom-select mb-4">
+        <option value="" disabled>Choose option</option>
+        <option value="1" selected>Feedback</option>
+        <option value="2">Report a bug</option>
+        <option value="3">Feature request</option>
+        <option value="4">Feature request</option>
+    </select>
+
+    <!-- Message -->
+    <div class="form-group">
+        <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Message"></textarea>
+    </div>
+
+    <!-- Copy -->
+    <div class="custom-control custom-checkbox mb-4">
+        <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
+        <label class="custom-control-label" for="defaultContactFormCopy">Send me a copy of this message</label>
+    </div>
+
+    <!-- Send button -->
+    <button class="btn btn-info btn-block btn-form" type="submit">Send</button>
+
+</form>
+<!-- Default form contact -->
 
 
-
-	</main>
-	<!--Footer Section-->
+<!--Footer Section-->
 	<footer class="container-fluid footer-custom">
 		<div id="footer-details" class="row">
 			<div class="col-12">
@@ -119,6 +109,7 @@
 			</div>
 		</div>
 	</footer>
+
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
 		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
