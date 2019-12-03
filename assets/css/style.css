@@ -30,6 +30,7 @@
 
 .btn-form {
     background-color: #000;
+    margin-bottom: 95px;
 }
 
 
@@ -223,12 +224,9 @@
 
 /*-- Form Section--*/
 
-.form-custom{
-    padding-top:200px;
-}
 
 .h5-custom{
-    padding-top: 175px;
+    padding-top: 75px;
 }
 
 
