@@ -184,6 +184,7 @@
     text-align: center;
 }
 
+
 .image-pages {
     object-fit: cover;
     width: 100%;
@@ -220,6 +221,12 @@
     top:50%;
 
 }
+
+@media only screen and (min-width: 1040px) {
+.company-section1 {
+    padding-top: 120px;
+}
+
 
 .section-title {
     text-align: center;
