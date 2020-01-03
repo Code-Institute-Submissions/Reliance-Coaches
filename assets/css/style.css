@@ -2,6 +2,8 @@
 
 /*Buttons*/
 
+
+/*Button on Landing Page styled to make it circular in shape*/
 .btn-circle { 
             background-color: rgba(26, 24, 24, 0.247);
             border: 1px solid #fff;
@@ -203,6 +205,8 @@
     letter-spacing: 10px;
     text-transform: uppercase;
 }
+
+/* Added Style to Underline Header on each page that only starts from 767px on */
 
 @media only screen and (min-width: 767px) {
 .h1-custom::after {
