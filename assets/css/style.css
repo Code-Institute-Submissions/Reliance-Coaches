@@ -231,7 +231,7 @@
     padding-top: 120px;
 }
 
-
+}
 .section-title {
     text-align: center;
 }
@@ -239,11 +239,7 @@
 
 /*-- Form Section--*/
 
-
-.h5-custom{
-    padding-top: 75px;
+form {
+    margin-top: 150px;
 }
-
-
-
 
