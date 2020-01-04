@@ -17,6 +17,8 @@ and what Coaches the company have available. You can view the full site here hos
 ### Existing Features
 ### Features Left to Implement
 + In the future the client would like for me to implement a section for customers to make payments
++ To Make the Contact form fully functional.
++ Add a Route Planner for Customers to plan there trip.
 ## Technologies Used
 + **Gitpod** - [Gitpod](https://www.gitpod.io/) was the only IDE i used throughout development.
 + **HTML** - This is the Markup language used to create the main structure of the website.
@@ -26,6 +28,14 @@ and what Coaches the company have available. You can view the full site here hos
 + **Fontawesome** - All icons are taking from [Fontawesome.](https://fontawesome.com/)                                                               
 
 ## Testing
++ I ran the HTML for all pages through [W3C HTML Markup Validation](https://validator.w3.org/) by direct input.
++ I ran the CSS through [W3C CSS Validation Service](http://www.css-validator.org/) by direct input.
++ I tested Every Link Manually.
++ I got friends to test out the live site on Github and give me Feedback on any issues.
++ Using Google Chrome Devtools, i tested the wepsite on iPhone 6/7/8 iPhone 10x, iPad and iPad Pro.
++ I used my Huwawei P20 Android Phone to test website , as well as my own personal Laptop.
+
+### Known Bugs
 ## Deployment
 ## Credits
 ### Content
