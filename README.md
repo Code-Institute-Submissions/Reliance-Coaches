@@ -9,6 +9,7 @@ and what Coaches the company have available. You can view the full site here hos
   * On Mobile these links are hidden in a dropdown menu for better functionality.
 + **Call to Action Button** - When you land on the home page, the first thing you will see is a call to action button.This to make it easy for people who just want to make an enquiry straight away without searching the website.
 + **Social Media Links** - Social Media Links available in the footer section across the website. This is an alternative method for customer to contact the client.
++ **Landing Page** - On the landing Page the customer first reaches, there is a general overview of what the company is about.There is also the clients contact number and Mail Buttons to contact client.
 + **About us Page** - A page to tell the client some info about Reliance Coaches history and Location.
 + **Services Page** - A page to provide info to the customer on what services the client provides.
 + **Our Fleet Page** - A page to provide the customer information on what coaches the client has available.
