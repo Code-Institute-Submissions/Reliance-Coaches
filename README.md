@@ -1,6 +1,6 @@
 # Reliance-Coaches
 ![](https://github.com/waynecrawley/Reliance-Coaches/blob/master/assets/images/websitemockup.jpg?raw=true)
-This Website was Built for Reliance Coaches.The purpose of this website was to give the company an Online presence.
+This Website was Built for the client Reliance Coaches.The purpose of this website was to give the company an Online presence.
 The goal of the website was to make a Basic Page where Customers, can contact the company at ease, see what services the company has to  offer ,
 and what Coaches the company have available. You can view the full site here hosted on Github (https://waynecrawley.github.io/Reliance-Coaches/)
 ## UX
@@ -21,5 +21,10 @@ and what Coaches the company have available. You can view the full site here hos
 ## Deployment
 ## Credits
 ### Content
+
+* The code to shorten border lenght was found here (https://www.steckinsights.com/shorten-length-border-bottom-pure-css/) and modified to suit my needs.
+* The code to my form was taking from here (https://mdbootstrap.com/docs/jquery/forms/basic/) and modified to suit my needs.
 ### Media
+* All images of Coaches was supplied by the client.
+* All non Coach images were found on (https://unsplash.com/)
 ### Acknowledgements
