@@ -5,6 +5,24 @@ The goal of the website was to make a Basic Page where Customers, can contact th
 and what Coaches the company have available. You can view the full site here hosted on [Github](https://waynecrawley.github.io/Reliance-Coaches/).
 ## UX
 ### User Stories
+**New Customer **
+As a New Customer
+I want the website to be easy to navigate
+So that It’s easy to find the information I require
+
+As a New Customer
+I want to see some images of the coaches the Company has available.
+So that It’s easy for me to see if they offer what I require.
+
+As a New Customer
+I want to be able to get  a Quotation
+So that I can decide if I want to use the company.
+
+Returning Customer 
+As a Returning Customer
+I want to be able to contact the company easily
+So that I don’t get lost in the website trying to find the contact page.
+
 ### Strategy
 ### Scope
 ### Structure
