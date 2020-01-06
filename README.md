@@ -66,7 +66,11 @@ and what Coaches the company have available. You can view the full site here hos
 + **CSS** - I used CSS to style the visual look of the webpage.
 + **Bootstrap** - [Bootstrap](https://getbootstrap.com/) was used to help make the Webpage Responsive over different screensizes.
 + **jQuery** - I used [jQuery](https://jquery.com/) to collapse the Navbar 
-+ **Fontawesome** - All icons are taking from [Fontawesome.](https://fontawesome.com/)                                                               
++ **Fontawesome** - All icons are taking from [Fontawesome.](https://fontawesome.com/)
++ **Popper.js** - [Popper.js]() is the Javascript required for Navbar      
++ **Git** -  [Git]() was used for version control.
++ **GitHub** - [Github]() was used to host the repository for this project.
+* **Favicon.cc** - used to create [Favicon]() icon.                                                   
 
 ## Testing
 + I ran the HTML for all pages through [W3C HTML Markup Validation](https://validator.w3.org/) by direct input.
