@@ -4,6 +4,13 @@ This Website was Built for the client Reliance Coaches.The purpose of this websi
 The goal of the website was to make a Basic Page where Customers, can contact the company at ease, see what services the company has to  offer ,
 and what Coaches the company have available. You can view the full site here hosted on [Github](https://waynecrawley.github.io/Reliance-Coaches/).
 ## UX
+### User Stories
+### Strategy
+### Scope
+### Structure
+### Skeleton
+### Surface
+
 ## FEATURES
 ### Existing Features
 + **Navbar** - A Navbar is available with links to all pages to make it easy for the user to move through all pages with ease.
@@ -59,6 +66,15 @@ using the built in functions available in [Gitpod](https://www.gitpod.io/).
 5. Underneath **Source** click the downarrow beside  **None**  in the Dropdown menu.
 6. Click on the **Masterbranch**
 7. The webiste is now deployed and can be found [here](https://waynecrawley.github.io/Reliance-Coaches/index.html).
+### How to Deploy Locally
+1. Login into [Github](https://github.com/)
+2. Select [waynecrawley/Reliance-Coaches](https://github.com/waynecrawley/Reliance-Coaches) from the list of Repositories.
+3. Under the repository name, click Clone or download.
+4. Copy the Clone URL.
+5. Open Git Bash.
+6. Change the current working directory to the location where you want the cloned directory to be made.
+7. Type git clone, and then paste the URL you copied in Step 4.
+8. Press Enter. Your local clone will be created.
 ## Credits
 ### Content
 
@@ -68,5 +84,7 @@ using the built in functions available in [Gitpod](https://www.gitpod.io/).
 + All images of Coaches was supplied by the client.
 + All non Coach images were found on [Upslash.com](https://unsplash.com/)
 ### Acknowledgements
++ How to Deploy Locally in Readme i learnd from [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+
 + I would just like to Thank all my fellow Code Institue Students on Slack, who have been a great
 help along the way.
