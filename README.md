@@ -1,31 +1,37 @@
 # Reliance-Coaches
 ![](https://github.com/waynecrawley/Reliance-Coaches/blob/master/assets/images/websitemockup.jpg?raw=true)
+### Introduction  
 This Website was Built for the client Reliance Coaches.The purpose of this website was to give the company an Online presence.
 The goal of the website was to make a Basic Page where Customers, can contact the company at ease, see what services the company has to  offer ,
 and what Coaches the company have available. You can view the full site here hosted on [Github](https://waynecrawley.github.io/Reliance-Coaches/).
 ## UX
 ### User Stories
-**New Customer **
-As a New Customer
-I want the website to be easy to navigate
-So that It’s easy to find the information I require
 
-As a New Customer
-I want to see some images of the coaches the Company has available.
-So that It’s easy for me to see if they offer what I require.
 
-As a New Customer
-I want to be able to get  a Quotation
-So that I can decide if I want to use the company.
+**As a** New Customer  
+**I want** the website to be easy to navigate  
+**So that** It’s easy to find the information I require
 
-Returning Customer 
-As a Returning Customer
-I want to be able to contact the company easily
-So that I don’t get lost in the website trying to find the contact page.
+**As a** New Customer  
+**I want** to see some images of the coaches the Company has available.  
+**So that** It’s easy for me to see if they offer what I require.  
+
+**As a** New Customer  
+**I want** to be able to get  a Quotation  
+**So that** I can decide if I want to use the company.  
+
+**As a** Returning Customer  
+**I want** to be able to contact the company easily  
+**So that** I don’t get lost in the website trying to find the contact page.
 
 ### Strategy
++ This project is for the creation of a Website for Reliance Coaches to give them an Online Presence, that is visually pleasing and has an ease of use.
 ### Scope
++ This project is for the creation of a Website for Reliance Coaches to give them an Online Presence.  The Website Should be Responsive and Work on all Devices and Browsers. The Website must consist of Information Pages about the business, a contact Form and social Media Pages.
 ### Structure
++ The overall structure of the website was that of a Branching Structure.. With one main page branching off into 4 other pages. See image below . 
+
+![](https://github.com/waynecrawley/Reliance-Coaches/blob/master/assets/images/structure.png)
 ### Skeleton
 ### Surface
 
