@@ -73,12 +73,16 @@ and what Coaches the company have available. You can view the full site here hos
 * **Favicon.cc** - used to create [Favicon]() icon.                                                   
 
 ## Testing
++ The first thing I did was , worked through my user stories to make sure my website reached all the requirements of my user stories, before moving on to the more technical testing.
 + I ran the HTML for all pages through [W3C HTML Markup Validation](https://validator.w3.org/) by direct input.
 + I ran the CSS through [W3C CSS Validation Service](http://www.css-validator.org/) by direct input.
 + I tested Every Link Manually.
 + I got friends to test out the live site on Github and give me Feedback on any issues.
 + Using Google Chrome Devtools, i tested the wepsite on iPhone 6/7/8 iPhone 10x, iPad and iPad Pro.
 + I used my Huwawei P20 Android Phone to test website , as well as my own personal Laptop.
++ The website was tested on different browsers such as Google Chrome, Safari, Internet Explorer and Mozilla Firefox.
++ [Gtmetrix](https://gtmetrix.com/) was used to test how fast does my webpage load. See result below
+
 
 ### Known Bugs
 + On Samsung A6 the ENQUIRIES text is showing outside it's Call to Action Button.
