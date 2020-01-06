@@ -33,7 +33,16 @@ and what Coaches the company have available. You can view the full site here hos
 
 ![](https://github.com/waynecrawley/Reliance-Coaches/blob/master/assets/images/structure.png)
 ### Skeleton
+ During the Design Process Balsamiq was used in conjunction with the client to settle on a final Design Plan.
+
+#### Wireframes
++ [index.html Wireframes for Mobile,Tablet and Desktop](https://github.com/waynecrawley/Reliance-Coaches/blob/master/wireframes/indexhtml-wireframe.png)
++ [contactsus.html Wireframes for Mobile,Tablet and Desktop]()
++ [aboutus.html,services.html,ourfleet.html for Mobile,Tablet and Desktop]()
+
 ### Surface
++ A black and white colour theme was used for this website, which  showcases the classic professional look. A pop of Colour was added  through the use of Colour Images.
+
 
 ## FEATURES
 ### Existing Features
