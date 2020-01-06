@@ -83,6 +83,8 @@ and what Coaches the company have available. You can view the full site here hos
 + The website was tested on different browsers such as Google Chrome, Safari, Internet Explorer and Mozilla Firefox.
 + [Gtmetrix](https://gtmetrix.com/) was used to test how fast does my webpage load. See result below
 
+![](https://github.com/waynecrawley/Reliance-Coaches/blob/master/assets/images/gtmetrix.png)
+
 
 ### Known Bugs
 + On Samsung A6 the ENQUIRIES text is showing outside it's Call to Action Button.
