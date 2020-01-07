@@ -67,10 +67,10 @@ and what Coaches the company have available. You can view the full site here hos
 + **Bootstrap** - [Bootstrap](https://getbootstrap.com/) was used to help make the Webpage Responsive over different screensizes.
 + **jQuery** - I used [jQuery](https://jquery.com/) to collapse the Navbar 
 + **Fontawesome** - All icons are taking from [Fontawesome.](https://fontawesome.com/)
-+ **Popper.js** - [Popper.js]() is the Javascript required for Navbar      
-+ **Git** -  [Git]() was used for version control.
-+ **GitHub** - [Github]() was used to host the repository for this project.
-* **Favicon.cc** - used to create [Favicon]() icon.                                                   
++ **Popper.js** - [Popper.js](https://popper.js.org/) is the Javascript required for Navbar      
++ **Git** -  [Git](https://git-scm.com/) was used for version control.
++ **GitHub** - [Github](https://github.com/) was used to host the repository for this project.
+* **Favicon.cc** - used to create [Favicon](https://www.favicon.cc/) icon.                                                   
 
 ## Testing
 + The first thing I did was , worked through my user stories to make sure my website reached all the requirements of my user stories, before moving on to the more technical testing.
