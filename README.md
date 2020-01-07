@@ -74,12 +74,22 @@ and what Coaches the company have available. You can view the full site here hos
 
 ## Testing
 + The first thing I did was , worked through my user stories to make sure my website reached all the requirements of my user stories, before moving on to the more technical testing.
-+ I ran the HTML for all pages through [W3C HTML Markup Validation](https://validator.w3.org/) by direct input.
-+ I ran the CSS through [W3C CSS Validation Service](http://www.css-validator.org/) by direct input.
-+ I tested Every Link Manually.
-+ I got friends to test out the live site on Github and give me Feedback on any issues.
-+ Using Google Chrome Devtools, i tested the wepsite on iPhone 6/7/8 iPhone 10x, iPad and iPad Pro.
-+ I used my Huwawei P20 Android Phone to test website , as well as my own personal Laptop.
++ + I ran the HTML for all pages through [W3C HTML Markup Validation](https://validator.w3.org/) by direct input. - **Working as intended**
++ I ran the CSS through [W3C CSS Validation Service](http://www.css-validator.org/) by direct input. - **Working as Intended**
++ All Links tested Manually - **Working as intended**
++ All Buttons tested Manually - **Working as intended**
++ Tested Different Screen sizes using Google Developer tools.
+  * Pixel 2 - **Working as intended**
+  * iPhone 6 - **Working as intended**
+  * iPhone 7 - **Working as intended**
+  * iPhone 8 - **Working as intended**
+  * iPhone X - **Working as intended**
+  * iPad - **Working as intended**
+  * iPad Pro  - **Working as intended**
+  * Laptop with HiDPI screen - **Working as intended**
+
++ I got friends to test out the live site on Github and give me Feedback on any issues. - **See Known Bugs**
++ I used my Huwawei P20 Android Phone to test website - **Working as intended**
 + The website was tested on different browsers such as Google Chrome, Safari, Internet Explorer and Mozilla Firefox.
 + [Gtmetrix](https://gtmetrix.com/) was used to test how fast does my webpage load. See result below
 
