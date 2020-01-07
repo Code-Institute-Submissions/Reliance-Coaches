@@ -27,7 +27,7 @@ and what Coaches the company have available. You can view the full site here hos
 ### Strategy
 + This project is for the creation of a Website for Reliance Coaches to give them an Online Presence, that is visually pleasing and has an ease of use.
 ### Scope
-+ This project is for the creation of a Website for Reliance Coaches to give them an Online Presence.  The Website Should be Responsive and Work on all Devices and Browsers. The Website must consist of Information Pages about the business, a contact Form and social Media Pages.
++ The Website Should be Responsive and Work on all Devices and Browsers. The Website must consist of Information Pages about the business, a contact Form and social Media Pages.
 ### Structure
 + The overall structure of the website was that of a Branching Structure.. With one main page branching off into 4 other pages. See image below . 
 
