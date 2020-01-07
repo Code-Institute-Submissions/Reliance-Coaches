@@ -74,7 +74,7 @@ and what Coaches the company have available. You can view the full site here hos
 
 ## Testing
 + The first thing I did was , worked through my user stories to make sure my website reached all the requirements of my user stories, before moving on to the more technical testing.
-+ + I ran the HTML for all pages through [W3C HTML Markup Validation](https://validator.w3.org/) by direct input. - **Working as intended**
++ I ran the HTML for all pages through [W3C HTML Markup Validation](https://validator.w3.org/) by direct input. - **Working as intended**
 + I ran the CSS through [W3C CSS Validation Service](http://www.css-validator.org/) by direct input. - **Working as Intended**
 + All Links tested Manually - **Working as intended**
 + All Buttons tested Manually - **Working as intended**
