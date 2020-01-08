@@ -90,6 +90,10 @@ and what Coaches the company have available. You can view the full site here hos
 
 + I got friends to test out the live site on Github and give me Feedback on any issues. - **See Known Bugs**
 + I used my Huwawei P20 Android Phone to test website - **Working as intended**
++ I posted my webpage to slack for peer review and made changes based on feedback.
+  * Added more padding to the Footer.
+  * Made the form not smaller on larger screen sizes.
+  * Added a link to my contact Number
 + The website was tested on different browsers such as Google Chrome, Safari, Internet Explorer and Mozilla Firefox.
 + [Gtmetrix](https://gtmetrix.com/) was used to test how fast does my webpage load. See result below
 
