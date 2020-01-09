@@ -37,8 +37,8 @@ what coaches the company have available. You can view the full site here hosted 
 
 #### Wireframes
 + [index.html Wireframes for Mobile,Tablet and Desktop](https://github.com/waynecrawley/Reliance-Coaches/blob/master/wireframes/indexhtml-wireframe.png)
-+ [contactsus.html Wireframes for Mobile,Tablet and Desktop]()
-+ [aboutus.html,services.html,ourfleet.html for Mobile,Tablet and Desktop]()
++ [contactsus.html Wireframes for Mobile,Tablet and Desktop](https://github.com/waynecrawley/Reliance-Coaches/blob/master/assets/images/contactus-wireframe.png)
++ [aboutus.html,services.html,ourfleet.html for Mobile,Tablet and Desktop](https://github.com/waynecrawley/Reliance-Coaches/blob/master/assets/images/aboutusservicesfleet.png)
 
 ### Surface
 + A black and white colour theme was used for this website, which showcases the classic professional look. A pop of colour was added through the use of colour images.
