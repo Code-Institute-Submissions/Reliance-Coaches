@@ -10,7 +10,7 @@ what coaches the company have available. You can view the full site here hosted 
 
 **As a** New Customer  
 **I want** the website to be easy to navigate  
-**So that** It’s easy to find the information I require
+**So that** It’s easy to find Social Media Links
 
 **As a** New Customer  
 **I want** to see some images of the coaches the company has available  
@@ -119,7 +119,7 @@ using the built in functions available in [Gitpod](https://www.gitpod.io/).
 2. Select [waynecrawley/Reliance-Coaches](https://github.com/waynecrawley/Reliance-Coaches) from the list of Repositories.
 3. Under the Repository name, click Clone or Download.
 4. Copy the Clone URL.
-5. Open Git Bash.
+5. Open your Terminal.
 6. Change the current working directory to the location where you want the cloned directory to be made.
 7. Type git clone, and then paste the URL you copied in Step 4.
 8. Press Enter. Your local clone will be created.
